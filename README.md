@@ -1,4 +1,2 @@
-# LEARN GIT✨
+# Study Notes✨
 
-## Definition
-  > Git is one of those **Version Control System** or **source code management** 
